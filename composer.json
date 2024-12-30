@@ -9,6 +9,7 @@
         "php": "^8.2",
         "laravel/breeze": "^2.2",
         "laravel/framework": "^11.31",
+        "laravel/telescope": "^5.2",
         "laravel/tinker": "^2.9",
         "phpstan/phpdoc-parser": "^2.0"
     },
